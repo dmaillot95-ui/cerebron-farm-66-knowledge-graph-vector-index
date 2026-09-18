@@ -1,0 +1,20 @@
+{
+  "farm_id": 66,
+  "name": "cerebron-farm-66-knowledge-graph-vector-index",
+  "domain": "knowledge-graph-vector-index",
+  "status": "SCAFFOLDED",
+  "protocol": "SPIRALIX-OMEGA",
+  "capabilities": [
+    "knowledge-graph",
+    "vector-index",
+    "hybrid-retrieval",
+    "provenance-index"
+  ],
+  "evidence_ceiling": "E2-before-real-validation",
+  "kernel": "dmaillot95-ui/cerebron-omega-ai",
+  "rules": [
+    "VECTOR_SIMILARITY!=EVIDENCE",
+    "NEAREST_NEIGHBOR!=CAUSAL_RELATION",
+    "EMBEDDING!=PROOF"
+  ]
+}
