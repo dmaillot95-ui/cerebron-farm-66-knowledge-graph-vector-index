@@ -1,0 +1,11 @@
+{
+  "schema": "cerebron-private-memory-index-v1",
+  "memory_id": "C01-SIGMA-MEMTEST-0001",
+  "colony_id": "C01-SIGMA",
+  "catalog_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "catalog_path": "memory/private-pointers/C01-SIGMA-MEMTEST-0001.json",
+  "catalog_commit": "5f3600aba54d531ebd0eae5f6a6797b69e3000b6",
+  "provider": "huggingface",
+  "privacy": "OPAQUE_POINTER_ONLY",
+  "status": "INDEXED"
+}
