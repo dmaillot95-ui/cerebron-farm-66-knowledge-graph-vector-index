@@ -1,0 +1,12 @@
+{
+  "schema": "cerebron-saphea-generation-index-v1",
+  "memory_id": "C01-SIGMA-SIGMA-FORMALIZER-M1",
+  "colony_id": "C01-SIGMA",
+  "agent_id": "SIGMA-FORMALIZER",
+  "generation": "M1",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/C01-SIGMA-SIGMA-FORMALIZER-M1.json",
+  "f74_commit": "3774d3a6da3ad1e4f6b0ccea618411d2da67bff1",
+  "status": "INDEXED_PENDING_FULL_RECALL",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}
