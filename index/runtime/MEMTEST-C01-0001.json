@@ -1,0 +1,9 @@
+{
+  "schema": "cerebron-memory-index-v1",
+  "memory_id": "MEMTEST-C01-0001",
+  "colony_id": "C01-SIGMA",
+  "catalog_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "catalog_path": "memory/runtime/MEMTEST-C01-0001.json",
+  "status": "INDEXED_TEST_FIXTURE",
+  "provenance": "CEREBRON master memory fabric"
+}
