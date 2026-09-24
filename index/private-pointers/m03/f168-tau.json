@@ -1,0 +1,14 @@
+{
+  "schema": "cerebron-ai-private-index-v2",
+  "memory_id": "F168-TAU-M03-35995124491",
+  "ai_id": "F168-TAU",
+  "identity": "TAU",
+  "generation": "M03",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/m03/f168-tau.json",
+  "f74_commit": "3dcebd021776740fc66fbffa4f55888afba74f55",
+  "payload_sha256": "fa51a4564d90375dff5d0ccfc9b9783ac651284b938951165391a2eebd1db343",
+  "source_run_id": "35995124491",
+  "status": "INDEXED_HF_VERIFIED_FIRST_VERSION",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}

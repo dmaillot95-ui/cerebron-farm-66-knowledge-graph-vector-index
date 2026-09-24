@@ -1,0 +1,14 @@
+{
+  "schema": "cerebron-ai-private-index-v2",
+  "memory_id": "F159-KAPPA-M03-35995124491",
+  "ai_id": "F159-KAPPA",
+  "identity": "KAPPA",
+  "generation": "M03",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/m03/f159-kappa.json",
+  "f74_commit": "3dcebd021776740fc66fbffa4f55888afba74f55",
+  "payload_sha256": "34d0cc548996116f3695872fe67f2ac85d9e13fdc1641bcc111e0a3176582bc1",
+  "source_run_id": "35995124491",
+  "status": "INDEXED_HF_VERIFIED_FIRST_VERSION",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}

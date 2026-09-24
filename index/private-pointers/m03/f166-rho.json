@@ -1,0 +1,14 @@
+{
+  "schema": "cerebron-ai-private-index-v2",
+  "memory_id": "F166-RHO-M03-35995124491",
+  "ai_id": "F166-RHO",
+  "identity": "RHO",
+  "generation": "M03",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/m03/f166-rho.json",
+  "f74_commit": "3dcebd021776740fc66fbffa4f55888afba74f55",
+  "payload_sha256": "14518ed6335d5b6688b7f112cb690f60a98965a089329192c3a251c81e881626",
+  "source_run_id": "35995124491",
+  "status": "INDEXED_HF_VERIFIED_FIRST_VERSION",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}

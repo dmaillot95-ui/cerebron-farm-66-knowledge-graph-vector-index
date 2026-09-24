@@ -1,0 +1,14 @@
+{
+  "schema": "cerebron-ai-private-index-v2",
+  "memory_id": "HYPERION-M03-35995124491",
+  "ai_id": "HYPERION",
+  "identity": "HYPERION",
+  "generation": "M03",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/m03/hyperion.json",
+  "f74_commit": "3dcebd021776740fc66fbffa4f55888afba74f55",
+  "payload_sha256": "062abdb99567be67d699ba758b0980c762849386c3cf79651b4b345b49eba1f8",
+  "source_run_id": "35995124491",
+  "status": "INDEXED_HF_VERIFIED_FIRST_VERSION",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}

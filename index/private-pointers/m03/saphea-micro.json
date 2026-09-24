@@ -1,0 +1,14 @@
+{
+  "schema": "cerebron-ai-private-index-v2",
+  "memory_id": "SAPHEA_MICRO-M03-35995124491",
+  "ai_id": "SAPHEA_MICRO",
+  "identity": "SAPHEA_MICRO",
+  "generation": "M03",
+  "f74_repo": "dmaillot95-ui/cerebron-farm-74-session-memory-encyclopedia",
+  "f74_path": "memory/private-pointers/m03/saphea-micro.json",
+  "f74_commit": "3dcebd021776740fc66fbffa4f55888afba74f55",
+  "payload_sha256": "7d197eacac76ebee9ac1ec268f6b69a1a23b2ec64a4bbb2c7a0789d32b24c4fd",
+  "source_run_id": "35995124491",
+  "status": "INDEXED_HF_VERIFIED_FIRST_VERSION",
+  "privacy": "OPAQUE_POINTER_ONLY"
+}
