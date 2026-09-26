@@ -1,8 +1,8 @@
 {
   "schema": "AGORA_RECURSIVE_STATE_V2",
-  "state_id": "dmaillot95-ui/cerebron-farm-66-knowledge-graph-vector-index:36222968386",
-  "parent_state_id": "dmaillot95-ui/cerebron-farm-66-knowledge-graph-vector-index:36222017919",
-  "iteration": 751,
+  "state_id": "dmaillot95-ui/cerebron-farm-66-knowledge-graph-vector-index:36223824736",
+  "parent_state_id": "dmaillot95-ui/cerebron-farm-66-knowledge-graph-vector-index:36222968386",
+  "iteration": 752,
   "resource": "dmaillot95-ui/cerebron-farm-66-knowledge-graph-vector-index",
   "residual": "COLLECT_REAL_OUTPUT",
   "claims": [],
